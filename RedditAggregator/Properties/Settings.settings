@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="RedditAggregator.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="aggregatorRefreshToken" Type="System.String" Scope="User">
+      <Value Profile="(Default)">10545808621--qYNVHlDXAJh5Xw48nahklFSvpE</Value>
+    </Setting>
+    <Setting Name="aggregatorAppID" Type="System.String" Scope="User">
+      <Value Profile="(Default)">KVDUuZOONaPWRg</Value>
+    </Setting>
+    <Setting Name="Host" Type="System.String" Scope="User">
+      <Value Profile="(Default)">server185.web-hosting.com</Value>
+    </Setting>
+    <Setting Name="Username" Type="System.String" Scope="User">
+      <Value Profile="(Default)">jettsozq</Value>
+    </Setting>
+    <Setting Name="Port" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">21098</Value>
+    </Setting>
+    <Setting Name="Password" Type="System.String" Scope="User">
+      <Value Profile="(Default)">!!242prank1sonyou</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
